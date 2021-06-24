@@ -29,5 +29,3 @@ My C++ implementation can be found [here](https://github.com/josiahroa18/CSCI-22
 | Binary Search Trees II | [06](./06) |
 | Graphs                 | [07](./07) |
 | Graphs II              | [08](./08) |
-
-test
